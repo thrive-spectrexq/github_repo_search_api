@@ -1,6 +1,6 @@
 # GitHub Repositories Search API
 
-This project implements a GitHub Repositories Search API, allowing users to search for GitHub repositories using ChatGPT. The API is documented using Swagger UI for easy exploration and testing.
+This project implements a GitHub Repositories Search API, allowing users to search for GitHub repositories.
 
 ## Overview
 
@@ -40,4 +40,4 @@ The `GetSearch` function handles the logic for searching GitHub repositories.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
