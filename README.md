@@ -10,12 +10,6 @@ This API is built using JavaScript and relies on the following main components:
 
 - **itty-router-openapi**: This library helps create a router for your API based on the OpenAPI Specification. It simplifies the process of defining routes and handling requests.
 
-## API Information
-
-- **Title**: GitHub Repositories Search API
-- **Description**: This API allows users to search for GitHub repositories using ChatGPT.
-- **Version**: v0.0.1
-
 ## API Documentation
 
 You can explore and interact with the API using Swagger UI. Access the documentation by visiting the following URL:
